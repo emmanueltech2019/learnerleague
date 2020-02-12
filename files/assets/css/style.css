@@ -1074,7 +1074,7 @@ a:visited {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image:linear-gradient(red,blue,green,white);
+  background-image:linear-gradient(red,blue,green,);
   opacity: 0.09;
 }
 
