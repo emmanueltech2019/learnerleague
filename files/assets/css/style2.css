@@ -1,0 +1,16 @@
+.loginbtn{
+    background-color: white;
+    color: #0e1922;
+    outline: none;
+    border-radius: 10px;
+    padding: 5px 25px 5px 25px;
+    font-size: 15px;
+}
+.regbtn{
+    background-color: white;
+    color: #0e1922;
+    outline: none;
+    border-radius: 10px;
+    padding: 5px 25px 5px 25px;
+    font-size: 15px;
+}
